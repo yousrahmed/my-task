@@ -1,0 +1,32 @@
+C:\Users\RS3\source\repos\my task\my task\bin\Debug\netcoreapp2.1\my task.deps.json
+C:\Users\RS3\source\repos\my task\my task\bin\Debug\netcoreapp2.1\my task.runtimeconfig.json
+C:\Users\RS3\source\repos\my task\my task\bin\Debug\netcoreapp2.1\my task.runtimeconfig.dev.json
+C:\Users\RS3\source\repos\my task\my task\bin\Debug\netcoreapp2.1\my task.dll
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.csprojAssemblyReference.cache
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.csproj.CoreCompileInputs.cache
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.RazorAssemblyInfo.cache
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.RazorAssemblyInfo.cs
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.AssemblyInfoInputs.cache
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.AssemblyInfo.cs
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.TagHelpers.input.cache
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.TagHelpers.output.cache
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.RazorCoreGenerate.cache
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.RazorTargetAssemblyInfo.cache
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.RazorTargetAssemblyInfo.cs
+C:\Users\RS3\source\repos\my task\my task\bin\Debug\netcoreapp2.1\my task.pdb
+C:\Users\RS3\source\repos\my task\my task\bin\Debug\netcoreapp2.1\my task.Views.dll
+C:\Users\RS3\source\repos\my task\my task\bin\Debug\netcoreapp2.1\my task.Views.pdb
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.Views.pdb
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.dll
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.pdb
+C:\Users\RS3\source\repos\my task\my task\obj\Debug\netcoreapp2.1\my task.csproj.CopyComplete
